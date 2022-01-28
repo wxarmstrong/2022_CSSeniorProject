@@ -1,3 +1,6 @@
+--Lua implementation of a modified Monte Carlo Tree Search with Partial Expansion for BizHawk.
+--Currently set up to locate a solution to battle scenes in Onimusha Tactics (GBA)
+
 BEST_SCORE = 0
 
 DEBUG = false
